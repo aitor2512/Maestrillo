@@ -211,6 +211,6 @@ body {
 }
 
 .recuadro::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(21, 0, 255, 0.5);
+    background-color: rgb(255, 0, 0);
 }
 
